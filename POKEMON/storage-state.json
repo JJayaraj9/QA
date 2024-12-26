@@ -1,0 +1,25 @@
+{
+  "cookies": [
+    {
+      "name": "XSRF-TOKEN",
+      "value": "eyJpdiI6IlV3a0hqSVdBT3ErbW1DUUZ0UzIrRnc9PSIsInZhbHVlIjoiMTRpVGVHbmVCSEhwc1VzUlZFamVkcC8rb3orUWdsSjZoUGM2aG1ZM1ZaeUhudGRNZ2NXY1YzSDZCWVNLU2R4a2NaS2NmTVpBNUhDZ2RQczVqczI3VHh2TG5HNjVTQW5ibzcvTEZYWHUvaEZnN3c3MkpwemRzTHNHZTJVdnZCVVYiLCJtYWMiOiJmNTRhMTUxN2E1YzgyNzhlMjFhYjhhNmZiOGZiMGY2YWE4NGU2ZDhjYjU1NzNjODViNGQwZGNhMGYxZmRjOTY4IiwidGFnIjoiIn0%3D",
+      "domain": "thd-webcp-test.myparadigmcloud.com",
+      "path": "/",
+      "expires": 1697123269.021287,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "laravel_session",
+      "value": "eyJpdiI6IlNGaTZXMkpzS3hURTB3VlBvOHpKekE9PSIsInZhbHVlIjoiYldVVnhyVFZtV0kwZHNqbWp6STl2U1VLcG1zTDViSzEzcFBnUm5hWVZleDVsK0VvSjhvbXIrcXJ0cUE0c3RvNzBRQ2h0cjlWSFFhM2ZDQzhtczMxOWdyeUxTOEN3bGsyaHRWZ2JwKzhqQVp3Tmtsd2NFK3BpRU40L3ltS0ttQUEiLCJtYWMiOiJmY2JhNzlkNzYyYzVkZDg1NzYzNGVkMjVhOGNkMTliZGU4ZGM1Mzk5Yzk4YmJlNWRiOTI0ODQwY2MwMDUyZmRhIiwidGFnIjoiIn0%3D",
+      "domain": "thd-webcp-test.myparadigmcloud.com",
+      "path": "/",
+      "expires": 1697123269.021345,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": []
+}
